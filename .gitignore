@@ -1,0 +1,12 @@
+# Sensitive files
+koneksi.php
+Booking_data.txt
+booking_data.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
